@@ -6,27 +6,27 @@
 
 🐧 Ce repos est une collection **d'Incroyables** outils et d'applications Linux pour **utilisateurs et développeurs**.
 <br>
-🐧 N'hesitez pas à **contribuer** / **star** / **fork** / **pull request** . N'importe quelles **recommandations** et **suggestions** sont les bienvenus.
+🐧 N'hésitez pas à **contribuer** / **star** / **fork** / **pull request** . N'importe quelles **recommandations** et **suggestions** sont les bienvenues.
 
-**Reconnaissance:** _Tout ce qui est écrit ci dessous viens de ma propre expérience à la fac et aprés diverses lectures . Je ne suis ni un professionel ni un expert, mais un passioné. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté._
+**Reconnaissance:** _Tout ce qui est écrit ci-dessous vient de ma propre expérience à la fac et après diverses lectures. Je ne suis ni un professionnel ni un expert, mais un passionné. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté._
 
-- Verion Brésilienne Portugaise : [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
+ - Version brésilienne portugaise : [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
 - Version Chinoise: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [ici](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
 - Version Espagnole: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) or [ici](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md)
 - Version Thai : [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
 - Version Française: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_fr-FR.md).
 
-## Table des Matiéres
+## Table des Matières
 
 - [Applications](#applications)
   - [Audio](#audio)
   - [Clients Discussions](#chat-clients)
-  - [Sauvegarde et récupartion de données](#data-backup-and-recovery)
-  - [Personnilation de Bureau](#desktop-customization)
+  - [Sauvegarde et récupération de données](#data-backup-and-recovery)
+  - [Personnalisation de Bureau](#desktop-customization)
   - [Développement](#development)
   - [Utilitaires E-Book](#e-book-utilities)
-  - [Editeurs](#editors)
-  - [Education](#education)
+  - [Éditeurs](#editors)
+  - [Éducation](#education)
   - [Utilitaires Email](#email)
   - [Gestionnaire de fichiers](#file-manager)
   - [Jeux](#games)
@@ -35,15 +35,15 @@
   - [Bureautique](#office)
   - [Productivité](#productivity)
   - [Proxy](#proxy)
-  - [Securité](#security)
+  - [Sécurité](#security)
   - [Partage de fichiers](#sharing-files)
   - [Terminal](#terminal)
   - [Utilitaires](#utilities)
-  - [Video](#video)
+    - [Vidéo](#video)
   - [Logiciels Wiki](#wiki-software)
   - [Autres](#others)
-- [Utilitaires de Ligne de Commande](#command-line-utilities)
-- [Environement de bureau](#desktop-environments)
+  - [Utilitaires de Ligne de Commande](#command-line-utilities)
+  - [Environnement de bureau](#desktop-environments)
 - [Gestionnaires d'affichage](#display-manager)
   - [Console](#console)
   - [Graphique](#graphic)
